@@ -1,0 +1,10 @@
+C:\Users\kikin\source\repos\FWP\FWP\obj\Debug\FWP.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\FWP\FWP\obj\Debug\FWP.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\FWP\FWP\bin\Debug\FWP.dll
+C:\Users\kikin\source\repos\FWP\FWP\bin\Debug\FWP.pdb
+C:\Users\kikin\source\repos\FWP\FWP\bin\Debug\FNA.dll
+C:\Users\kikin\source\repos\FWP\FWP\bin\Debug\FNA.pdb
+C:\Users\kikin\source\repos\FWP\FWP\bin\Debug\FNA.dll.config
+C:\Users\kikin\source\repos\FWP\FWP\obj\Debug\FWP.csproj.CopyComplete
+C:\Users\kikin\source\repos\FWP\FWP\obj\Debug\FWP.dll
+C:\Users\kikin\source\repos\FWP\FWP\obj\Debug\FWP.pdb
